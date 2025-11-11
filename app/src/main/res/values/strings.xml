@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Actividad 10</string>
+    <string name="_1_de_5">1 de 5</string>
+    <string name="anterior">Anterior</string>
+    <string name="home">Home 🏠</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="t_tulo">Título</string>
+    <string name="descripci_n">Descripción</string>
+    <string name="fecha">DD/MM/YYYY</string>
 </resources>
